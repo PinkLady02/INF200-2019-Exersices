@@ -1,7 +1,7 @@
-INF200 Exersices:
+INF200 Exercises:
 =================
 
-FIRST_NAME SURNAME:
+VICTORIA KARLSEN:
 -------------------
 
 This repository contains all the exersices written as part of the
